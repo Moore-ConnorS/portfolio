@@ -1,0 +1,27 @@
+.hero {
+  height: 90vh;
+  width: 100%;
+  background-image: url(https://www.freeenterprise.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-1.07.39-PM-1280x859.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  width: 100%;
+  height: 75px;
+  background-color: rgba(37, 37, 207, 0.664);
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.menu {
+  li {
+    display: inline;
+    font-size: 30px;
+    font-family: "Noto Sans";
+    margin: 0px 20px 0px 0px;
+    color: white;
+  }
+}
