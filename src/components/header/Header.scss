@@ -1,9 +1,22 @@
 .hero {
-  height: 90vh;
+  height: 93vh;
   width: 100%;
-  background-image: url(https://www.freeenterprise.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-1.07.39-PM-1280x859.jpg);
+  background-image: url("https://s7.bluegreenvacations.com/is/image/BGV/arizona-sunset-sonoran-desert-cactus?$bg2-gallery$&crop=5,61,2345,1319&anchor=1177,720");
   background-size: cover;
   background-position: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  div {
+    color: rgba(255, 255, 255, 1);
+    font-family: "Noto Sans";
+    font-size: 50px;
+    font-weight: bold;
+    width: 45%;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  }
 }
 
 header {

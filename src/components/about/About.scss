@@ -1,0 +1,20 @@
+#about {
+  background-color: rgba(240, 240, 240, 1);
+  padding: 20px;
+}
+
+.aboutMe {
+  width: 75%;
+  margin-left: 10%;
+  background-color: rgba(240, 240, 240, 1);
+
+  .aboutFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  img {
+    height: 300px;
+    margin-right: 20px;
+  }
+}
