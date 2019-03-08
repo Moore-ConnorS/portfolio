@@ -1,7 +1,7 @@
 .hero {
   height: 93vh;
   width: 100%;
-  background-image: url("https://s7.bluegreenvacations.com/is/image/BGV/arizona-sunset-sonoran-desert-cactus?$bg2-gallery$&crop=5,61,2345,1319&anchor=1177,720");
+  background-image: url("./monumentBackground.jpg");
   background-size: cover;
   background-position: center;
 
@@ -10,12 +10,19 @@
   align-items: center;
 
   div {
-    color: rgba(255, 255, 255, 1);
+    // background-color: rgba(92, 92, 92, 0.574);
+    // box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
     font-family: "Noto Sans";
     font-size: 50px;
     font-weight: bold;
     width: 45%;
-    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 0px 5px 8px rgba(0, 0, 0, 0.7);
+    position: relative;
+    top: 50px;
   }
 }
 
@@ -34,7 +41,7 @@ header {
     display: inline;
     font-size: 30px;
     font-family: "Noto Sans";
-    margin: 0px 20px 0px 0px;
+    margin-right: 40px;
     color: white;
   }
 }

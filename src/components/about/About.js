@@ -14,17 +14,13 @@ export default class About extends Component {
             <div>
               <p>
                 {" "}
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque at velit viverra, vehicula sem sed, tempor velit.
-                Nulla feugiat libero quis mollis eleifend. Curabitur non dolor
-                risus. In pellentesque euismod tellus, ut vulputate sem ornare
-                eget. Sed sagittis id odio laoreet iaculis. Duis vestibulum,
-                urna at consequat accumsan, est ante posuere nisi, cursus
-                vestibulum sem odio nec diam. Class aptent taciti sociosqu ad
-                litora torquent per conubia nostra, per inceptos himenaeos.
-                Mauris pellentesque scelerisque laoreet. In auctor quam a
-                dapibus facilisis. Phasellus ante ante, euismod sit amet
-                faucibus suscipit, dictum maximus nulla.
+                I am a husband and father of one out of Phoenix, Arizona looking
+                for work all across the south-west. I was raised with a constant
+                curiousity of technology and a strong desire to work with
+                computer. Discovering the work of software development has
+                allowed me to follow my dream to work in the tech field. I am
+                looking forward to the continued growth and development with a
+                great company.
               </p>
             </div>
           </div>
