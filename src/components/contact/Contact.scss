@@ -1,5 +1,35 @@
+.contactMe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 h1 {
   font-size: 40px;
   text-decoration: underline;
   font-family: "Noto Sans";
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.mail {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  img {
+    height: 25px;
+  }
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    margin: 10px;
+  }
 }
