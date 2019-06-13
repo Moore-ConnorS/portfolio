@@ -7,9 +7,10 @@ export default class Header extends React.Component {
       <div>
         <div className="hero">
           <div className="image" />
-          <div>
+          <div id="headerText">
             <div>Hello, </div>
-            <div>I am Connor Moore and I turn ideas into reality</div>
+            <div>I am Connor Moore</div>
+            <div>I turn ideas into reality</div>
           </div>
         </div>
       </div>
