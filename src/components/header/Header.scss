@@ -40,8 +40,23 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+  }
+
+  #hello {
     animation: appear 1.5s ease-in;
-    animation-delay: 0.5s;
+    animation-delay: 0.75s;
+    animation-fill-mode: both;
+  }
+
+  #name {
+    animation: appear 1.5s ease-in;
+    animation-delay: 1s;
+    animation-fill-mode: both;
+  }
+
+  #idea {
+    animation: appear 1.5s ease-in;
+    animation-delay: 1.25s;
     animation-fill-mode: both;
   }
 }
