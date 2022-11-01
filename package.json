@@ -8,7 +8,7 @@
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
     "react-slick": "^0.23.2",
-    "surge": "^0.20.1"
+    "surge": "^0.20.5"
   },
   "scripts": {
     "start": "react-scripts start",
